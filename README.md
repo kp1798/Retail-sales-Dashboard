@@ -15,7 +15,7 @@ It was inspired by JJ Power BI’s Retail Sales Dashboard tutorial, adapted with
 - Provided actionable recommendations for inventory and marketing.  
 
 ## 🖼️ Dashboard Preview
-![Overview Dashboard]("screenshot/image (4).png")
+![Overview Dashboard](screenshot/image%20%284%29.png)
 
 ## 🔑 Business Impact
 This project demonstrates how retail analytics can optimize product strategy, improve customer targeting, and drive revenue growth.
